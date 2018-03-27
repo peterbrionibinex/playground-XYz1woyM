@@ -29,3 +29,7 @@ This *mandatory* file describes both the table of contents and the programming p
 
 Tech.io provides all the tools to embed visual and interactive content like a Web app or a Unix terminal. Please refer to the [documentation](https://tech.io/doc) to learn more about the viewer integrations.
 
+#Tested by
+
+Peter Joshua Brion
+
